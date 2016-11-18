@@ -1,6 +1,6 @@
 project=1.0
 projectmanager="Bob"
 cost=100.00
-newrate=2.0
+rate=2.0
 count=2
 start=4
